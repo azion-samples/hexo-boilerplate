@@ -1,25 +1,25 @@
 {
-  "name": "hexo-boilerplate",
-  "bucket": "hexo-boilerplate",
+  "name": "hexo-boilerplate-20240424142426",
+  "bucket": "hexo-boilerplate-20240424142426",
   "preset": "hexo",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240424170347",
+  "prefix": "20240424172528",
   "not-first-run": true,
   "function": {
-    "id": 20759,
+    "id": 20766,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 20394,
+    "instance-id": 20401,
     "instance-name": "__DEFAULT__"
   },
   "application": {
-    "id": 1713979255,
+    "id": 1713979264,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1713977997,
+    "id": 1713978008,
     "name": "__DEFAULT__"
   },
   "rt-purge": {
@@ -27,13 +27,13 @@
   },
   "origin": [
     {
-      "origin-id": 127169,
-      "origin-key": "94bdfa7b-8ff5-4b2a-8eff-893310bc4f9b",
-      "name": "hexo-boilerplate_single"
+      "origin-id": 127185,
+      "origin-key": "a043673e-ceaf-4ef3-9762-cf5288e94552",
+      "name": "hexo-boilerplate-20240424142426_single"
     },
     {
-      "origin-id": 127171,
-      "origin-key": "d960fe62-41c0-4e7b-ab62-837e3f451d0d",
+      "origin-id": 127186,
+      "origin-key": "f3ffe82d-fe62-4460-883d-19161bdc8b27",
       "name": "origin-storage-default"
     }
   ],
@@ -41,15 +41,15 @@
     "created": false,
     "rules": [
       {
-        "id": 238419,
+        "id": 238455,
         "name": "Main_Rule"
       },
       {
-        "id": 238420,
+        "id": 238456,
         "name": "Index_Rewrite_1"
       },
       {
-        "id": 238421,
+        "id": 238457,
         "name": "Index_Rewrite_2"
       }
     ]
